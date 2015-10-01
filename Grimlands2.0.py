@@ -5,4 +5,17 @@ class room():
 		
 	items = []
 	
-	doors #hash
+	doors = [] #hash
+	
+class item():
+	pass
+	
+class player():
+	
+	# health?
+	
+	inventory = ['wool']
+	
+player = player()
+
+print player.inventory
